@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on React<br>🌱 I’m currently learning App development
 
-![](https://leetcard.jacoblin.cool/Immanuvel12?cache=0)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immanuvel.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/immanuvel-r-336442259/) 
@@ -15,6 +14,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Immanuvel1207&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+
+### 🧑‍💻Leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/Immanuvel12?ext=heatmap)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
