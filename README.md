@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on React<br>🌱 I’m currently learning App development
 
-![](https://leetcard.jacablon.cool/Immanuvel12?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Immanuvel12?cache=0)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immanuvel.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/immanuvel-r-336442259/) 
