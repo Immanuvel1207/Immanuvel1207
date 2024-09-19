@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on React<br>🌱 I’m currently learning App development
 
+[![Immanuvel's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Immanuvel12)](https://github.com/Immanuvel1207/leetcode-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immanuvel.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/immanuvel-r-336442259/) 
